@@ -1,0 +1,3 @@
+Number of numbers in this file: 200
+Total of all numbers : 105527
+Average: 527
