@@ -2,4 +2,4 @@
 
 In this class, we focused on the basics of C++, from variable to loops.
 
-# Professor: Nahid Majd
+##### Professor: Nahid Majd
